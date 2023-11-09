@@ -191,11 +191,19 @@ The main objectives of Tirupattur Government Higher Secondary School are
 ~~~
 
 ## Output:
-![Alt text](sree/newapp/static/map.png)
-![Alt text](a.html.png)
-![Alt text](b.html.png)
-![Alt text](c.html.png)
-![Alt text](d.html.png)
-![Alt text](e.html.png)
+
+![Screenshot (5)](https://github.com/santhoshs2004/NearMe/assets/129157717/ac1301a0-8c57-4598-90a4-d111d8d70d7d)
+
+![Screenshot (6)](https://github.com/santhoshs2004/NearMe/assets/129157717/db30f1c3-e37e-4621-83bf-970d5af1e03a)
+
+![Screenshot (7)](https://github.com/santhoshs2004/NearMe/assets/129157717/3df3ccbb-23a2-4234-b078-9be7aa82d41d)
+
+![Screenshot (8)](https://github.com/santhoshs2004/NearMe/assets/129157717/838dbee7-7c81-49da-9f50-58db736069b1)
+
+![Screenshot (9)](https://github.com/santhoshs2004/NearMe/assets/129157717/e001da22-b01b-4cd5-ba18-bafad8bf81dc)
+
+![Screenshot (10)](https://github.com/santhoshs2004/NearMe/assets/129157717/4769ee4f-7c71-4568-bbf7-a611c911c921)
+
+
 ## Result:
 THE PROGRAM FOR IMPLEMENTING IMAGEMAP IS EXECUTED SUCCESSFULLY.
